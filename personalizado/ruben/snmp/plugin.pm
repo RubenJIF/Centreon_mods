@@ -1,5 +1,5 @@
 #Traffic MPLS
-#Ruben Infanzon rubenjames1155@gmail.com
+#Ruben Infanzon https://github.com/RubenJIF
 #
 #
 #Path to the plugin
